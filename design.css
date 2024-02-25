@@ -629,3 +629,18 @@ img {
 .aside {
     background-color: gray;
 }
+.peopleView{
+    border: 2px solid green;
+    width: 100px;
+    height: 100px;
+}
+.counterDisplayer{
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:xx-large;
+}
